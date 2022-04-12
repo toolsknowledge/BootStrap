@@ -1,0 +1,119 @@
+BootStrap
+*********
+    BootStrap is "Framework"
+
+    BootStrap is the "CSS" Framework
+
+    "Framework" containes "ready made" functionlities
+
+    BootStrap Released by "Twitter"
+
+    BootStrap containes so many versions
+
+        BootStrap 3.X
+
+        BootStrap 4.X
+
+        BootStrap 5.X
+    
+    BootStrap 5.X is the latest version
+
+    we can use BootStrap in two ways.
+
+        1) CDN
+
+        2) Downloading
+
+    CDN
+    ***
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    we can download "bootstrap" in two ways.
+
+            1) npm
+
+            2) yarn
+
+    npm stands for node packaging manager
+
+    npm available in NodeJS
+
+    yarn tool provided by facebook
+
+    Visual Studio Code IDE, is suggestable IDE to build BootStrap Applications
+
+    Visual Studio Code IDE Released by Microsoft and Open Source IDE
+
+
+Software Installations
+**********************
+1) download Visual Studio Code
+
+    website : https://code.visualstudio.com/docs/?dv=win
+
+    file    : VSCodeUserSetup-x64-1.66.1.exe
+
+
+2) download and install NodeJS
+
+    npm stands for node packaging manager
+
+    npm helps to download the "bootstrap"
+
+    npm present in NodeJS
+
+    website : https://nodejs.org/en/download/
+
+    file    : node-v16.14.2-x64.msi
+
+
+3) install yarn tool
+
+    yarn tool helps to "download" the bootstrap
+
+    yarn tool Released by "facebook"
+
+    yarn tool Installation is command based Installation
+
+    > npm install -g yarn
+
+    -g stands for global Installation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
