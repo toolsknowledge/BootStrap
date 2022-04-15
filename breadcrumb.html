@@ -1,0 +1,32 @@
+<!--
+    1) breadcrumb
+
+    2) breadcrumb-item
+
+    3) active
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>breadcrumb</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
+        <style>
+            .breadcrumb-item + .breadcrumb-item::before {
+                color: #ff0000;
+                content: var(--bs-breadcrumb-divider, "#") 
+            }
+        </style>
+    </head>
+
+    <body>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item active">Home</li>
+                <li class="breadcrumb-item">Portfolio</li>
+                <li class="breadcrumb-item">Contact</li>
+                <li class="breadcrumb-item">Courses</li>
+                <li class="breadcrumb-item">Signout</li>
+            </ol>
+        </nav>
+    </body>
+</html>
